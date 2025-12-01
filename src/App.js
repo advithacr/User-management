@@ -141,7 +141,7 @@ function App() {
   );
 }
 
-/* ======== STYLES ======== */
+/* STYLES */
 
 const backgroundStyle = {
   minHeight: "100vh",
